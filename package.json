@@ -1,0 +1,30 @@
+{
+  "name": "@lassehaslev/font-subsetter",
+  "version": "0.0.1",
+  "description": "Subset fonts with single regular expression",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lassehaslev/font-subsetter.git"
+  },
+  "keywords": [
+    "font",
+    "subset",
+    "subsetter",
+    "minify"
+  ],
+  "author": "Lasse S. Haslev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lassehaslev/font-subsetter/issues"
+  },
+  "homepage": "https://github.com/lassehaslev/font-subsetter#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "fonteditor-core": "^0.0.37",
+    "fontkit": "^1.5.4"
+  }
+}
