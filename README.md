@@ -2,7 +2,7 @@
 
 ## Install
 ```bash
-npm install @lassehaslev/font-subsetter
+npm install @lassehaslev/font-subsetter --save
 ```
 
 ## Usage
